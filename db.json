@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "gYE0iS6RL",
+      "email": "egoing777@gmail.com",
+      "password": "$2a$08$D4KZyq0bSFW6Biur6nRoLevyc6wKdX//QnJA4A.lMa3bP9YBUGXtq",
+      "displayName": "egoing777"
+    },
+    {
+      "id": "hoUDbnP1C",
+      "email": "egoing778@gmail.com",
+      "password": "$2a$08$kWNlRrJ8YBdlSnI/TaSHUuTgTx6UM60Mi/pqC6wqwLJOufkUk9p66",
+      "displayName": "egoing778"
+    },
+    {
+      "id": "EQZVW22dU",
+      "email": "egoing779@gmail.com",
+      "password": "$2a$08$L0qHa4TXUuYSRcjb4mbfzuHGJR.zJhv6po7mVE8P7fQ4e2nH2HkKm",
+      "displayName": "egoing779"
+    },
+    {
+      "id": "oEKsq1RsV",
+      "email": "codingtoc@gmail.com",
+      "displayName": "jonah lim",
+      "googleId": "110357216740620140380",
+      "password": "$2a$08$C9amK8Lvm5yoAV3pAqBRV.4is2yGwdYYgaNMnFYy1nLtxOVUsBwFq"
+    }
+  ],
+  "topics": [
+    {
+      "id": "F1mRwrGcG",
+      "title": "Multi User",
+      "description": "Multi User is ...",
+      "user_id": "gYE0iS6RL"
+    },
+    {
+      "id": "aQHlZe2pc",
+      "title": "Passport.js",
+      "description": "passport.js is ...",
+      "user_id": "gYE0iS6RL"
+    },
+    {
+      "id": "PP-3ETF8o",
+      "title": "Express",
+      "description": "Express is ...",
+      "user_id": "hoUDbnP1C"
+    },
+    {
+      "id": "vM6K2D0yi",
+      "title": "Nodejs",
+      "description": "Nodejs is ...",
+      "user_id": "hoUDbnP1C"
+    }
+  ]
+}
